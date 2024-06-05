@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bydd365_hsappservice", "bydd365_hsappservice\bydd365_hsappservice.csproj", "{2273C98D-9623-4CAC-836D-DFF1ACC63146}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2273C98D-9623-4CAC-836D-DFF1ACC63146}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2273C98D-9623-4CAC-836D-DFF1ACC63146}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2273C98D-9623-4CAC-836D-DFF1ACC63146}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2273C98D-9623-4CAC-836D-DFF1ACC63146}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46819E26-C879-40B2-B4D4-D2D6527BA756}
+	EndGlobalSection
+EndGlobal
